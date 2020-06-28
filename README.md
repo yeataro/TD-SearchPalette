@@ -6,12 +6,14 @@ A TouchDesigner UI-Addon for searching palette.
 
 Drag and drop the component anywhere on the network (recommended to be the root) and it will be installed automatically.
 
-If you turn on the "Auto Install at startup" parameter, this component will be installed each time the project is started.
-
-
 ![](img/pattle.png)
 
+Turn on the "Live" button to search in real time while typing (if you are performing, it will affect the performance a little bit)
+
 ![](img/par.png)
+
+If you turn on the "Auto Install at startup" parameter, this component will be installed each time the project is started.
+
 
 ---
 https://github.com/yeataro/TD-SearchPalette
