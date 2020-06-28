@@ -1,6 +1,6 @@
 # TD-SearchPalette
 
-A UI-Addon for searching palette.
+A TouchDesigner UI-Addon for searching palette.
 
 ![](img/icon.png)
 
