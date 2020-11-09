@@ -13,7 +13,7 @@ Turn on the "Live" button to search in real time while typing (if you are perfor
 ![](img/par.png)
 
 If you turn on the "Auto Install at startup" parameter, this component will be installed each time the project is started.
-
+ 
 
 ---
 https://github.com/yeataro/TD-SearchPalette
