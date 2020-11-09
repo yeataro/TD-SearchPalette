@@ -8,6 +8,10 @@ Drag and drop the component anywhere on the network (recommended to be the root)
 
 ![](img/pattle.png)
 
+Use asterisks to match any string of any length.
+
+![](img/pattle2.png)
+
 Turn on the "Live" button to search in real time while typing (if you are performing, it will affect the performance a little bit)
 
 ![](img/par.png)
